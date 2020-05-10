@@ -1,0 +1,8 @@
+Telebot
+PyTelegramBotAPI==2.2.3
+xlrd
+bs4
+requests
+regex
+pandas
+lxml
